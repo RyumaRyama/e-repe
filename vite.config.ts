@@ -4,9 +4,8 @@ import { viteStaticCopy } from 'vite-plugin-static-copy';
 
 // https://vite.dev/config/
 export default defineConfig({
-  // GitHub Pages用: リポジトリ名をベースパスに設定
-  // 例: https://username.github.io/english-practice-react/
-  base: process.env.VITE_BASE_PATH || '/',
+  // Vercel用: ルートパスでデプロイ
+  base: '/',
 
   plugins: [
     react(),
