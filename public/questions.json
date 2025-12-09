@@ -1,0 +1,58 @@
+{
+  "beginner": [
+    {
+      "english": "I like cats.",
+      "japanese": "私は猫が好きです。"
+    },
+    {
+      "english": "The sky is blue.",
+      "japanese": "空は青いです。"
+    },
+    {
+      "english": "She has a dog.",
+      "japanese": "彼女は犬を飼っています。"
+    }
+  ],
+  "elementary": [
+    {
+      "english": "My brother plays soccer every weekend.",
+      "japanese": "私の弟は毎週末サッカーをします。"
+    },
+    {
+      "english": "We went to the park yesterday.",
+      "japanese": "私たちは昨日公園に行きました。"
+    },
+    {
+      "english": "She is reading a book in her room.",
+      "japanese": "彼女は自分の部屋で本を読んでいます。"
+    }
+  ],
+  "intermediate": [
+    {
+      "english": "I have been studying English for three years.",
+      "japanese": "私は3年間英語を勉強しています。"
+    },
+    {
+      "english": "If it rains tomorrow, we will stay home.",
+      "japanese": "もし明日雨が降ったら、私たちは家にいます。"
+    },
+    {
+      "english": "The movie that we watched last night was very interesting.",
+      "japanese": "昨夜私たちが見た映画はとても面白かったです。"
+    }
+  ],
+  "advanced": [
+    {
+      "english": "Our company has been implementing new strategies to improve customer satisfaction.",
+      "japanese": "当社は顧客満足度を向上させるために新しい戦略を実施しています。"
+    },
+    {
+      "english": "Despite the economic challenges, the team managed to exceed their quarterly targets.",
+      "japanese": "経済的な課題にもかかわらず、チームは四半期目標を上回ることができました。"
+    },
+    {
+      "english": "I would appreciate it if you could review the proposal by the end of this week.",
+      "japanese": "今週末までに提案書を確認していただけると幸いです。"
+    }
+  ]
+}
