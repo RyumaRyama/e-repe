@@ -1,58 +1,1610 @@
 {
   "beginner": [
     {
-      "english": "I like cats.",
-      "japanese": "私は猫が好きです。"
+      "english": "It's a sunny day today.",
+      "japanese": "今日は晴れですね。"
     },
     {
-      "english": "The sky is blue.",
-      "japanese": "空は青いです。"
+      "english": "I'm hungry.",
+      "japanese": "お腹が空きました。"
     },
     {
-      "english": "She has a dog.",
-      "japanese": "彼女は犬を飼っています。"
+      "english": "Let's play a game.",
+      "japanese": "ゲームをしましょう。"
+    },
+    {
+      "english": "Do you like ice cream?",
+      "japanese": "アイスクリームは好きですか？"
+    },
+    {
+      "english": "That's cool!",
+      "japanese": "それ、いいね！"
+    },
+    {
+      "english": "Can I have some water?",
+      "japanese": "お水をいただけますか？"
+    },
+    {
+      "english": "Where's the bathroom?",
+      "japanese": "トイレはどこですか？"
+    },
+    {
+      "english": "My mom is nice.",
+      "japanese": "私のお母さんは優しいです。"
+    },
+    {
+      "english": "See you tomorrow.",
+      "japanese": "また明日ね。"
+    },
+    {
+      "english": "I don't know.",
+      "japanese": "わかりません。"
+    },
+    {
+      "english": "Good morning.",
+      "japanese": "おはようございます。"
+    },
+    {
+      "english": "Good night.",
+      "japanese": "おやすみなさい。"
+    },
+    {
+      "english": "How are you?",
+      "japanese": "お元気ですか？"
+    },
+    {
+      "english": "I'm fine, thank you.",
+      "japanese": "元気です、ありがとう。"
+    },
+    {
+      "english": "Nice to meet you.",
+      "japanese": "はじめまして。"
+    },
+    {
+      "english": "What's your name?",
+      "japanese": "お名前は何ですか？"
+    },
+    {
+      "english": "I'm Ken.",
+      "japanese": "私はケンです。"
+    },
+    {
+      "english": "Thank you very much.",
+      "japanese": "本当にありがとうございます。"
+    },
+    {
+      "english": "You're welcome.",
+      "japanese": "どういたしまして。"
+    },
+    {
+      "english": "Excuse me.",
+      "japanese": "すみません。"
+    },
+    {
+      "english": "I'm sorry.",
+      "japanese": "ごめんなさい。"
+    },
+    {
+      "english": "No problem.",
+      "japanese": "問題ないよ。"
+    },
+    {
+      "english": "Yes, please.",
+      "japanese": "はい、お願いします。"
+    },
+    {
+      "english": "No, thank you.",
+      "japanese": "いいえ、けっこうです。"
+    },
+    {
+      "english": "I understand.",
+      "japanese": "わかりました。"
+    },
+    {
+      "english": "I see.",
+      "japanese": "なるほど。"
+    },
+    {
+      "english": "Wait a minute.",
+      "japanese": "ちょっと待って。"
+    },
+    {
+      "english": "Let's go!",
+      "japanese": "行こう！"
+    },
+    {
+      "english": "Come here.",
+      "japanese": "ここに来て。"
+    },
+    {
+      "english": "Look at this.",
+      "japanese": "これを見て。"
+    },
+    {
+      "english": "Listen to me.",
+      "japanese": "私の話を聞いて。"
+    },
+    {
+      "english": "Be careful.",
+      "japanese": "気をつけて。"
+    },
+    {
+      "english": "Good luck!",
+      "japanese": "頑張って！"
+    },
+    {
+      "english": "Have a nice day.",
+      "japanese": "よい一日を。"
+    },
+    {
+      "english": "It's hot today.",
+      "japanese": "今日は暑いです。"
+    },
+    {
+      "english": "It's cold outside.",
+      "japanese": "外は寒いです。"
+    },
+    {
+      "english": "It's raining.",
+      "japanese": "雨が降っています。"
+    },
+    {
+      "english": "I like apples.",
+      "japanese": "私はリンゴが好きです。"
+    },
+    {
+      "english": "I don't like natto.",
+      "japanese": "私は納豆が好きではありません。"
+    },
+    {
+      "english": "Do you like soccer?",
+      "japanese": "サッカーは好きですか？"
+    },
+    {
+      "english": "I play baseball.",
+      "japanese": "私は野球をします。"
+    },
+    {
+      "english": "Can you swim?",
+      "japanese": "泳げますか？"
+    },
+    {
+      "english": "I can run fast.",
+      "japanese": "私は速く走れます。"
+    },
+    {
+      "english": "Let's eat lunch.",
+      "japanese": "お昼ご飯を食べましょう。"
+    },
+    {
+      "english": "It looks delicious.",
+      "japanese": "おいしそうです。"
+    },
+    {
+      "english": "This is my pen.",
+      "japanese": "これは私のペンです。"
+    },
+    {
+      "english": "That is a big dog.",
+      "japanese": "あれは大きな犬です。"
+    },
+    {
+      "english": "I have a cat.",
+      "japanese": "私は猫を飼っています。"
+    },
+    {
+      "english": "She is my sister.",
+      "japanese": "彼女は私の妹（姉）です。"
+    },
+    {
+      "english": "He is my teacher.",
+      "japanese": "彼は私の先生です。"
+    },
+    {
+      "english": "Who is that?",
+      "japanese": "あれは誰ですか？"
+    },
+    {
+      "english": "What is this?",
+      "japanese": "これは何ですか？"
+    },
+    {
+      "english": "It's a book.",
+      "japanese": "それは本です。"
+    },
+    {
+      "english": "Where is my bag?",
+      "japanese": "私のかばんはどこですか？"
+    },
+    {
+      "english": "Here it is.",
+      "japanese": "ここにあります。"
+    },
+    {
+      "english": "I'm sleepy.",
+      "japanese": "眠いです。"
+    },
+    {
+      "english": "I'm tired.",
+      "japanese": "疲れました。"
+    },
+    {
+      "english": "I'm happy.",
+      "japanese": "嬉しいです。"
+    },
+    {
+      "english": "I'm sad.",
+      "japanese": "悲しいです。"
+    },
+    {
+      "english": "Are you okay?",
+      "japanese": "大丈夫ですか？"
+    },
+    {
+      "english": "What happened?",
+      "japanese": "何があったの？"
+    },
+    {
+      "english": "Don't worry.",
+      "japanese": "心配しないで。"
+    },
+    {
+      "english": "Don't give up.",
+      "japanese": "あきらめないで。"
+    },
+    {
+      "english": "Try again.",
+      "japanese": "もう一度やってみて。"
+    },
+    {
+      "english": "Good job!",
+      "japanese": "よくやったね！"
+    },
+    {
+      "english": "What time is it?",
+      "japanese": "何時ですか？"
+    },
+    {
+      "english": "It's seven o'clock.",
+      "japanese": "7時です。"
+    },
+    {
+      "english": "It's time for bed.",
+      "japanese": "寝る時間だよ。"
+    },
+    {
+      "english": "Time to go.",
+      "japanese": "行く時間だ。"
+    },
+    {
+      "english": "Today is Monday.",
+      "japanese": "今日は月曜日です。"
+    },
+    {
+      "english": "Tomorrow is Sunday.",
+      "japanese": "明日は日曜日です。"
+    },
+    {
+      "english": "Happy Birthday!",
+      "japanese": "お誕生日おめでとう！"
+    },
+    {
+      "english": "Merry Christmas!",
+      "japanese": "メリークリスマス！"
+    },
+    {
+      "english": "How old are you?",
+      "japanese": "何歳ですか？"
+    },
+    {
+      "english": "I'm ten years old.",
+      "japanese": "私は10歳です。"
+    },
+    {
+      "english": "Where do you live?",
+      "japanese": "どこに住んでいますか？"
+    },
+    {
+      "english": "I live in Tokyo.",
+      "japanese": "私は東京に住んでいます。"
+    },
+    {
+      "english": "Do you have a pen?",
+      "japanese": "ペンを持っていますか？"
+    },
+    {
+      "english": "I don't have money.",
+      "japanese": "お金を持っていません。"
+    },
+    {
+      "english": "Let's study English.",
+      "japanese": "英語を勉強しよう。"
+    },
+    {
+      "english": "Open your book.",
+      "japanese": "本を開いて。"
+    },
+    {
+      "english": "Close the door.",
+      "japanese": "ドアを閉めて。"
+    },
+    {
+      "english": "Turn on the light.",
+      "japanese": "電気をつけて。"
+    },
+    {
+      "english": "Turn off the TV.",
+      "japanese": "テレビを消して。"
+    },
+    {
+      "english": "Wash your hands.",
+      "japanese": "手を洗ってね。"
+    },
+    {
+      "english": "Clean your room.",
+      "japanese": "部屋を掃除して。"
+    },
+    {
+      "english": "Help me.",
+      "japanese": "手伝って。"
+    },
+    {
+      "english": "Call me.",
+      "japanese": "電話してね。"
+    },
+    {
+      "english": "I love you.",
+      "japanese": "愛してるよ（大好きだよ）。"
+    },
+    {
+      "english": "Me too.",
+      "japanese": "私もです。"
+    },
+    {
+      "english": "Why?",
+      "japanese": "なぜ？"
+    },
+    {
+      "english": "Because it's fun.",
+      "japanese": "楽しいからだよ。"
+    },
+    {
+      "english": "Really?",
+      "japanese": "本当に？"
+    },
+    {
+      "english": "Are you sure?",
+      "japanese": "確かですか？（本気？）"
+    },
+    {
+      "english": "Maybe.",
+      "japanese": "たぶんね。"
+    },
+    {
+      "english": "Just a moment.",
+      "japanese": "少々お待ちください。"
+    },
+    {
+      "english": "Let me see.",
+      "japanese": "えーっと（見せて）。"
+    },
+    {
+      "english": "What's this called?",
+      "japanese": "これはなんて呼ぶの？"
+    },
+    {
+      "english": "How much is this?",
+      "japanese": "これはいくらですか？"
+    },
+    {
+      "english": "It's cheap.",
+      "japanese": "安いです。"
     }
   ],
   "elementary": [
     {
-      "english": "My brother plays soccer every weekend.",
-      "japanese": "私の弟は毎週末サッカーをします。"
+      "english": "I got up early this morning.",
+      "japanese": "私は今朝早く起きました。"
     },
     {
-      "english": "We went to the park yesterday.",
-      "japanese": "私たちは昨日公園に行きました。"
+      "english": "What time does the movie start?",
+      "japanese": "映画は何時に始まりますか？"
     },
     {
-      "english": "She is reading a book in her room.",
-      "japanese": "彼女は自分の部屋で本を読んでいます。"
+      "english": "I think I lost my wallet.",
+      "japanese": "財布をなくしたかもしれません。"
+    },
+    {
+      "english": "We're going to the beach next week.",
+      "japanese": "私たちは来週ビーチに行きます。"
+    },
+    {
+      "english": "Did you finish your homework?",
+      "japanese": "宿題は終わりましたか？"
+    },
+    {
+      "english": "This pizza tastes really good.",
+      "japanese": "このピザは本当においしいです。"
+    },
+    {
+      "english": "Sorry, I can't go to the party.",
+      "japanese": "ごめんなさい、パーティーには行けません。"
+    },
+    {
+      "english": "Is it okay if I sit here?",
+      "japanese": "ここに座ってもいいですか？"
+    },
+    {
+      "english": "My brother doesn't eat vegetables.",
+      "japanese": "私の弟は野菜を食べません。"
+    },
+    {
+      "english": "Why are you laughing?",
+      "japanese": "なぜ笑っているの？"
+    },
+    {
+      "english": "I watched a movie last night.",
+      "japanese": "私は昨夜、映画を見ました。"
+    },
+    {
+      "english": "Did you enjoy your trip to Kyoto?",
+      "japanese": "京都への旅行は楽しかったですか？"
+    },
+    {
+      "english": "She didn't come to school yesterday.",
+      "japanese": "彼女は昨日学校に来ませんでした。"
+    },
+    {
+      "english": "We visited our grandparents on Sunday.",
+      "japanese": "私たちは日曜日に祖父母を訪ねました。"
+    },
+    {
+      "english": "He bought a new car last month.",
+      "japanese": "彼は先月、新しい車を買いました。"
+    },
+    {
+      "english": "I was very busy all day yesterday.",
+      "japanese": "昨日は一日中とても忙しかったです。"
+    },
+    {
+      "english": "Where did you put my keys?",
+      "japanese": "私の鍵をどこに置きましたか？"
+    },
+    {
+      "english": "I forgot to bring my umbrella.",
+      "japanese": "傘を持ってくるのを忘れました。"
+    },
+    {
+      "english": "We had a great time at the park.",
+      "japanese": "私たちは公園で楽しい時間を過ごしました。"
+    },
+    {
+      "english": "The train arrived ten minutes late.",
+      "japanese": "電車は10分遅れて到着しました。"
+    },
+    {
+      "english": "I'll call you later tonight.",
+      "japanese": "今夜あとで電話します。"
+    },
+    {
+      "english": "What are you going to do tomorrow?",
+      "japanese": "明日は何をする予定ですか？"
+    },
+    {
+      "english": "It's going to rain this afternoon.",
+      "japanese": "今日の午後は雨が降るでしょう。"
+    },
+    {
+      "english": "We will meet in front of the station.",
+      "japanese": "駅の前で待ち合わせしましょう。"
+    },
+    {
+      "english": "She won't be able to come to the meeting.",
+      "japanese": "彼女は会議に来ることができないでしょう。"
+    },
+    {
+      "english": "Are you free next weekend?",
+      "japanese": "来週末は空いていますか？"
+    },
+    {
+      "english": "I'm planning to study abroad next year.",
+      "japanese": "来年留学する予定です。"
+    },
+    {
+      "english": "When will you be back home?",
+      "japanese": "いつ家に帰ってきますか？"
+    },
+    {
+      "english": "My father usually gets home at seven.",
+      "japanese": "父はたいてい7時に帰宅します。"
+    },
+    {
+      "english": "She takes the bus to work every day.",
+      "japanese": "彼女は毎日バスで通勤しています。"
+    },
+    {
+      "english": "Do you know where the post office is?",
+      "japanese": "郵便局がどこにあるか知っていますか？"
+    },
+    {
+      "english": "I often go to the library to study.",
+      "japanese": "私は勉強するためによく図書館に行きます。"
+    },
+    {
+      "english": "He plays the guitar very well.",
+      "japanese": "彼はギターをとても上手に弾きます。"
+    },
+    {
+      "english": "My sister likes listening to music.",
+      "japanese": "私の姉（妹）は音楽を聴くのが好きです。"
+    },
+    {
+      "english": "Who are you waiting for?",
+      "japanese": "誰を待っているのですか？"
+    },
+    {
+      "english": "They are playing soccer in the yard.",
+      "japanese": "彼らは庭でサッカーをしています。"
+    },
+    {
+      "english": "It's getting dark outside.",
+      "japanese": "外が暗くなってきました。"
+    },
+    {
+      "english": "I'm looking for a gift for my friend.",
+      "japanese": "友達へのプレゼントを探しています。"
+    },
+    {
+      "english": "You should go to the doctor.",
+      "japanese": "お医者さんに行ったほうがいいですよ。"
+    },
+    {
+      "english": "I have to finish this report by tomorrow.",
+      "japanese": "明日までにこのレポートを終わらせなければなりません。"
+    },
+    {
+      "english": "Can you help me with my homework?",
+      "japanese": "宿題を手伝ってくれますか？"
+    },
+    {
+      "english": "We must follow the school rules.",
+      "japanese": "私たちは校則を守らなければなりません。"
+    },
+    {
+      "english": "You don't have to hurry.",
+      "japanese": "急ぐ必要はありません。"
+    },
+    {
+      "english": "May I ask you a question?",
+      "japanese": "質問してもよろしいですか？"
+    },
+    {
+      "english": "This bag is heavier than that one.",
+      "japanese": "このカバンはあのカバンより重いです。"
+    },
+    {
+      "english": "Which one is the most popular?",
+      "japanese": "どれが一番人気がありますか？"
+    },
+    {
+      "english": "Summer is hotter than spring.",
+      "japanese": "夏は春よりも暑いです。"
+    },
+    {
+      "english": "He is the tallest student in our class.",
+      "japanese": "彼は私たちのクラスで一番背が高い生徒です。"
+    },
+    {
+      "english": "I like tea better than coffee.",
+      "japanese": "私はコーヒーより紅茶が好きです。"
+    },
+    {
+      "english": "That sounds interesting.",
+      "japanese": "それは面白そうですね。"
+    },
+    {
+      "english": "I didn't mean to hurt you.",
+      "japanese": "あなたを傷つけるつもりはありませんでした。"
+    },
+    {
+      "english": "Let's take a break for a while.",
+      "japanese": "少し休憩しましょう。"
+    },
+    {
+      "english": "Why don't we go out for dinner?",
+      "japanese": "夕食を食べに出かけませんか？"
+    },
+    {
+      "english": "How about going to the movies?",
+      "japanese": "映画に行くのはどうですか？"
+    },
+    {
+      "english": "I'm worried about the test results.",
+      "japanese": "テストの結果が心配です。"
+    },
+    {
+      "english": "She was surprised to see him.",
+      "japanese": "彼女は彼に会って驚きました。"
+    },
+    {
+      "english": "I'm interested in Japanese history.",
+      "japanese": "私は日本の歴史に興味があります。"
+    },
+    {
+      "english": "Are you ready to order?",
+      "japanese": "ご注文の準備はできましたか？"
+    },
+    {
+      "english": "The restaurant was full of people.",
+      "japanese": "レストランは人でいっぱいでした。"
+    },
+    {
+      "english": "Turn right at the next corner.",
+      "japanese": "次の角を右に曲がってください。"
+    },
+    {
+      "english": "Go straight for two blocks.",
+      "japanese": "2ブロックまっすぐ進んでください。"
+    },
+    {
+      "english": "The station is across from the bank.",
+      "japanese": "駅は銀行の向かいにあります。"
+    },
+    {
+      "english": "Is it far from here?",
+      "japanese": "ここから遠いですか？"
+    },
+    {
+      "english": "I'd like to make a reservation.",
+      "japanese": "予約をしたいのですが。"
+    },
+    {
+      "english": "Do you have this in a smaller size?",
+      "japanese": "これのもっと小さいサイズはありますか？"
+    },
+    {
+      "english": "Can I pay by credit card?",
+      "japanese": "クレジットカードで支払えますか？"
+    },
+    {
+      "english": "What do you recommend?",
+      "japanese": "おすすめは何ですか？"
+    },
+    {
+      "english": "This shirt fits me perfectly.",
+      "japanese": "このシャツは私にぴったりです。"
+    },
+    {
+      "english": "My hobby is taking pictures.",
+      "japanese": "私の趣味は写真を撮ることです。"
+    },
+    {
+      "english": "I want to become a teacher in the future.",
+      "japanese": "将来は先生になりたいです。"
+    },
+    {
+      "english": "Did you hear the news?",
+      "japanese": "そのニュースを聞きましたか？"
+    },
+    {
+      "english": "I caught a cold last week.",
+      "japanese": "先週風邪をひいてしまいました。"
+    },
+    {
+      "english": "Please tell me your phone number.",
+      "japanese": "電話番号を教えてください。"
+    },
+    {
+      "english": "I don't feel well today.",
+      "japanese": "今日は気分が良くありません。"
+    },
+    {
+      "english": "Would you like something to drink?",
+      "japanese": "何か飲み物はいかがですか？"
+    },
+    {
+      "english": "I need to buy some milk and eggs.",
+      "japanese": "牛乳と卵を買う必要があります。"
+    },
+    {
+      "english": "Someone is knocking on the door.",
+      "japanese": "誰かがドアをノックしています。"
+    },
+    {
+      "english": "I haven't seen him for a long time.",
+      "japanese": "長い間彼に会っていません。"
+    },
+    {
+      "english": "Have you ever been to a zoo?",
+      "japanese": "動物園に行ったことはありますか？"
+    },
+    {
+      "english": "I've just finished my lunch.",
+      "japanese": "ちょうど昼食を食べ終わったところです。"
+    },
+    {
+      "english": "Don't be late for the meeting.",
+      "japanese": "会議に遅れないでください。"
+    },
+    {
+      "english": "Keep the change.",
+      "japanese": "お釣りは取っておいてください。"
+    },
+    {
+      "english": "Make yourself at home.",
+      "japanese": "くつろいでくださいね。"
+    },
+    {
+      "english": "It takes about ten minutes to walk there.",
+      "japanese": "そこへ歩いて行くのに約10分かかります。"
+    },
+    {
+      "english": "How long does it take by train?",
+      "japanese": "電車でどれくらいかかりますか？"
+    },
+    {
+      "english": "I shared a room with my brother.",
+      "japanese": "私は兄と部屋を共有しました。"
+    },
+    {
+      "english": "The store opens at ten a.m.",
+      "japanese": "その店は午前10時に開店します。"
+    },
+    {
+      "english": "I usually have toast for breakfast.",
+      "japanese": "私はたいてい朝食にトーストを食べます。"
+    },
+    {
+      "english": "Did you sleep well last night?",
+      "japanese": "昨夜はよく眠れましたか？"
+    },
+    {
+      "english": "I'm not sure what to do.",
+      "japanese": "どうすればいいかわかりません。"
+    },
+    {
+      "english": "Let me introduce my friend to you.",
+      "japanese": "私の友達をあなたに紹介させてください。"
+    },
+    {
+      "english": "Can you speak a little slower?",
+      "japanese": "もう少しゆっくり話せますか？"
+    },
+    {
+      "english": "I didn't catch what you said.",
+      "japanese": "あなたが言ったことが聞き取れませんでした。"
+    },
+    {
+      "english": "Could you say that again?",
+      "japanese": "もう一度言っていただけますか？"
+    },
+    {
+      "english": "What kind of music do you like?",
+      "japanese": "どんな種類の音楽が好きですか？"
+    },
+    {
+      "english": "I used to live in Osaka.",
+      "japanese": "以前、大阪に住んでいました。"
+    },
+    {
+      "english": "There are many books on the shelf.",
+      "japanese": "棚にはたくさんの本があります。"
+    },
+    {
+      "english": "Is there a convenience store near here?",
+      "japanese": "この近くにコンビニはありますか？"
+    },
+    {
+      "english": "I'm glad to hear that.",
+      "japanese": "それを聞いて嬉しいです。"
+    },
+    {
+      "english": "It was nice talking to you.",
+      "japanese": "お話しできてよかったです。"
     }
   ],
   "intermediate": [
     {
-      "english": "I have been studying English for three years.",
-      "japanese": "私は3年間英語を勉強しています。"
+      "english": "I've never been to Japan before.",
+      "japanese": "私はこれまで日本に行ったことがありません。"
     },
     {
-      "english": "If it rains tomorrow, we will stay home.",
-      "japanese": "もし明日雨が降ったら、私たちは家にいます。"
+      "english": "Actually, I have a better idea.",
+      "japanese": "実を言うと、もっといい考えがあります。"
     },
     {
-      "english": "The movie that we watched last night was very interesting.",
-      "japanese": "昨夜私たちが見た映画はとても面白かったです。"
+      "english": "It depends on the weather.",
+      "japanese": "それは天気次第ですね。"
+    },
+    {
+      "english": "I'm looking forward to seeing you.",
+      "japanese": "お会いできるのを楽しみにしています。"
+    },
+    {
+      "english": "Could you tell me how to get to the station?",
+      "japanese": "駅への行き方を教えていただけますか？"
+    },
+    {
+      "english": "I wish I could speak Spanish fluently.",
+      "japanese": "スペイン語が流暢に話せたらいいのに。"
+    },
+    {
+      "english": "That's exactly what I was thinking.",
+      "japanese": "それがまさに私が考えていたことです。"
+    },
+    {
+      "english": "You should definitely try the seafood pasta.",
+      "japanese": "絶対にシーフードパスタを試してみるべきだよ。"
+    },
+    {
+      "english": "Let me check my schedule and get back to you.",
+      "japanese": "スケジュールを確認して折り返し連絡します。"
+    },
+    {
+      "english": "I was about to leave when the phone rang.",
+      "japanese": "電話が鳴った時、まさに出かけようとしていたところでした。"
+    },
+    {
+      "english": "I've been thinking about joining a gym lately.",
+      "japanese": "最近、ジムに通おうかと考えています。"
+    },
+    {
+      "english": "Do you happen to know where the nearest convenience store is?",
+      "japanese": "ひょっとして、一番近いコンビニがどこにあるかご存知ですか？"
+    },
+    {
+      "english": "It looks like it's going to rain any minute now.",
+      "japanese": "今にも雨が降り出しそうですね。"
+    },
+    {
+      "english": "I'm not sure if I can finish this by myself.",
+      "japanese": "私一人でこれを終わらせられるかどうかわかりません。"
+    },
+    {
+      "english": "We should probably leave early to avoid the traffic.",
+      "japanese": "渋滞を避けるために、早めに出発したほうがいいでしょう。"
+    },
+    {
+      "english": "Have you ever considered changing your job?",
+      "japanese": "転職を考えたことはありますか？"
+    },
+    {
+      "english": "The restaurant we went to last week was fully booked.",
+      "japanese": "先週私たちが言ったレストランは予約でいっぱいでした。"
+    },
+    {
+      "english": "I was wondering if you could do me a favor.",
+      "japanese": "頼み事を聞いてもらえないかと思っていたのですが。"
+    },
+    {
+      "english": "To be honest, I didn't expect the movie to be that good.",
+      "japanese": "正直なところ、その映画がそんなに良いとは期待していませんでした。"
+    },
+    {
+      "english": "If I were you, I would take that offer immediately.",
+      "japanese": "もし私があなたなら、すぐにそのオファーを受けるでしょう。"
+    },
+    {
+      "english": "Could you please let me know when you are available?",
+      "japanese": "いつご都合が良いか教えていただけますか？"
+    },
+    {
+      "english": "I'm sorry for keeping you waiting for so long.",
+      "japanese": "長い間お待たせして申し訳ありません。"
+    },
+    {
+      "english": "It's been a long time since we last met.",
+      "japanese": "最後にお会いしてからずいぶん経ちましたね。"
+    },
+    {
+      "english": "Make sure to double-check the document before sending it.",
+      "japanese": "送信する前に必ず書類を再確認してください。"
+    },
+    {
+      "english": "I'd rather stay home than go out in this weather.",
+      "japanese": "この天気の中出かけるより、家にいたいです。"
+    },
+    {
+      "english": "The reason why I'm late is that I missed the bus.",
+      "japanese": "私が遅れた理由は、バスに乗り遅れたからです。"
+    },
+    {
+      "english": "He seems to be very tired from working overtime.",
+      "japanese": "彼は残業でとても疲れているようです。"
+    },
+    {
+      "english": "Is there anything specific you would like to eat?",
+      "japanese": "何か具体的に食べたいものはありますか？"
+    },
+    {
+      "english": "I'm getting used to living in a big city.",
+      "japanese": "大都市での生活に慣れてきました。"
+    },
+    {
+      "english": "Please feel free to ask questions at any time.",
+      "japanese": "いつでも自由に質問してください。"
+    },
+    {
+      "english": "I haven't decided what to wear to the party yet.",
+      "japanese": "パーティーに何を着ていくかまだ決めていません。"
+    },
+    {
+      "english": "She is not only smart but also very kind.",
+      "japanese": "彼女は頭が良いだけでなく、とても親切です。"
+    },
+    {
+      "english": "It's important to get enough sleep for your health.",
+      "japanese": "健康のためには十分な睡眠をとることが重要です。"
+    },
+    {
+      "english": "Would you mind if I opened the window?",
+      "japanese": "窓を開けても構いませんか？"
+    },
+    {
+      "english": "I totally agree with your opinion on that matter.",
+      "japanese": "その件に関するあなたの意見に完全に同意します。"
+    },
+    {
+      "english": "Let's figure out a solution together.",
+      "japanese": "一緒に解決策を見つけ出しましょう。"
+    },
+    {
+      "english": "The instructions were too complicated to understand.",
+      "japanese": "説明書は複雑すぎて理解できませんでした。"
+    },
+    {
+      "english": "I remember seeing him somewhere before.",
+      "japanese": "以前どこかで彼に会った覚えがあります。"
+    },
+    {
+      "english": "There's no point in worrying about the past.",
+      "japanese": "過去のことを心配しても意味がありません。"
+    },
+    {
+      "english": "I'll handle the rest of the work, so you can go home.",
+      "japanese": "残りの仕事は私がやりますので、帰っていいですよ。"
+    },
+    {
+      "english": "Unfortunately, the event has been canceled due to the storm.",
+      "japanese": "残念ながら、嵐のためにイベントは中止されました。"
+    },
+    {
+      "english": "Speaking of travel, have you ever been to Europe?",
+      "japanese": "旅行といえば、ヨーロッパに行ったことはありますか？"
+    },
+    {
+      "english": "I'm trying to cut down on sugar these days.",
+      "japanese": "最近、砂糖を控えるようにしています。"
+    },
+    {
+      "english": "It took me a while to realize what happened.",
+      "japanese": "何が起こったのか理解するのにしばらく時間がかかりました。"
+    },
+    {
+      "english": "You should have told me earlier.",
+      "japanese": "もっと早く私に言ってくれればよかったのに。"
+    },
+    {
+      "english": "I'm afraid I won't be able to attend the meeting.",
+      "japanese": "残念ながら会議には出席できそうにありません。"
+    },
+    {
+      "english": "Can you give me a hand with these boxes?",
+      "japanese": "この箱を運ぶのを手伝ってもらえませんか？"
+    },
+    {
+      "english": "I usually prefer coffee, but today I'll have tea.",
+      "japanese": "普段はコーヒーの方が好きですが、今日は紅茶にします。"
+    },
+    {
+      "english": "Even though it was expensive, it was worth buying.",
+      "japanese": "高かったけれど、買う価値はありました。"
+    },
+    {
+      "english": "What do you say to going out for a drink tonight?",
+      "japanese": "今夜飲みに行くのはどうですか？"
+    },
+    {
+      "english": "I was so excited that I couldn't sleep last night.",
+      "japanese": "興奮して昨夜は眠れませんでした。"
+    },
+    {
+      "english": "Please keep me updated on the situation.",
+      "japanese": "状況について随時知らせてください。"
+    },
+    {
+      "english": "It's widely believed that green tea is good for you.",
+      "japanese": "緑茶は体に良いと広く信じられています。"
+    },
+    {
+      "english": "I have to get this done by the end of the day.",
+      "japanese": "今日中にこれを終わらせなければなりません。"
+    },
+    {
+      "english": "Are you familiar with this software?",
+      "japanese": "このソフトウェアには詳しいですか？"
+    },
+    {
+      "english": "I managed to catch the last train home.",
+      "japanese": "なんとか家へ帰る最終電車に間に合いました。"
+    },
+    {
+      "english": "No matter how hard I try, I can't solve this puzzle.",
+      "japanese": "どんなに頑張っても、このパズルは解けません。"
+    },
+    {
+      "english": "Could you briefly explain what this is about?",
+      "japanese": "これがどういうことか簡単に説明していただけますか？"
+    },
+    {
+      "english": "I'm thinking of taking a few days off next month.",
+      "japanese": "来月、数日休みを取ろうと考えています。"
+    },
+    {
+      "english": "It's not as difficult as it looks.",
+      "japanese": "見た目ほど難しくはありません。"
+    },
+    {
+      "english": "We ran out of milk, so I need to go buy some.",
+      "japanese": "牛乳がなくなったので、買いに行かなければなりません。"
+    },
+    {
+      "english": "The flight was delayed for over two hours.",
+      "japanese": "フライトは2時間以上遅れました。"
+    },
+    {
+      "english": "I highly recommend visiting the museum in the morning.",
+      "japanese": "午前中に博物館を訪れることを強くお勧めします。"
+    },
+    {
+      "english": "Is there any chance we could reschedule our meeting?",
+      "japanese": "ミーティングの日程を変更できる可能性はありますか？"
+    },
+    {
+      "english": "I was just about to call you.",
+      "japanese": "ちょうどあなたに電話しようとしていたところです。"
+    },
+    {
+      "english": "She is responsible for training new employees.",
+      "japanese": "彼女は新入社員の研修を担当しています。"
+    },
+    {
+      "english": "Unless you hurry, you will miss the deadline.",
+      "japanese": "急がないと締め切りに間に合いませんよ。"
+    },
+    {
+      "english": "As far as I know, the meeting starts at 3 PM.",
+      "japanese": "私の知る限り、会議は午後3時に始まります。"
+    },
+    {
+      "english": "I'd appreciate it if you could reply by tomorrow.",
+      "japanese": "明日までに返信していただけると助かります。"
+    },
+    {
+      "english": "It seems that there was a misunderstanding.",
+      "japanese": "誤解があったようですね。"
+    },
+    {
+      "english": "While I understand your point, I have a different view.",
+      "japanese": "おっしゃることは分かりますが、私は別の見解を持っています。"
+    },
+    {
+      "english": "He is known as one of the best chefs in the city.",
+      "japanese": "彼はその街で最高のシェフの一人として知られています。"
+    },
+    {
+      "english": "Don't hesitate to contact me if you need anything.",
+      "japanese": "何か必要があれば遠慮なく連絡してください。"
+    },
+    {
+      "english": "I'm curious to know how it works.",
+      "japanese": "それがどのような仕組みなのか知りたいです。"
+    },
+    {
+      "english": "Basically, we have two options to choose from.",
+      "japanese": "基本的には、私たちには選べる2つの選択肢があります。"
+    },
+    {
+      "english": "It turned out to be a beautiful day.",
+      "japanese": "結果的に素晴らしい天気の一日になりました。"
+    },
+    {
+      "english": "I'm trying to improve my English skills for work.",
+      "japanese": "仕事のために英語力を向上させようとしています。"
+    },
+    {
+      "english": "Would you serve as a guide for us today?",
+      "japanese": "今日、私たちのガイドを務めていただけますか？"
+    },
+    {
+      "english": "Take your time, there is no need to rush.",
+      "japanese": "時間はたっぷりありますから、急ぐ必要はありません。"
+    },
+    {
+      "english": "I'm allergic to peanuts, so I can't eat that.",
+      "japanese": "ピーナッツアレルギーなので、それは食べられません。"
+    },
+    {
+      "english": "Have you heard anything from him recently?",
+      "japanese": "最近、彼から何か連絡はありましたか？"
+    },
+    {
+      "english": "I'll do my best to meet your expectations.",
+      "japanese": "ご期待に添えるよう最善を尽くします。"
+    },
+    {
+      "english": "The view from the top of the mountain was breathtaking.",
+      "japanese": "山頂からの景色は息をのむほど美しかったです。"
+    },
+    {
+      "english": "Why don't we split the bill?",
+      "japanese": "割り勘にしませんか？"
+    },
+    {
+      "english": "I was told to wait here until further notice.",
+      "japanese": "次の指示があるまでここで待つように言われました。"
+    },
+    {
+      "english": "It's unlike him to be late for an appointment.",
+      "japanese": "約束の時間に遅れるなんて、彼らしくないですね。"
+    },
+    {
+      "english": "I'm considering buying a new laptop soon.",
+      "japanese": "近いうちに新しいノートパソコンを買おうか検討しています。"
+    },
+    {
+      "english": "Are you involved in any volunteer activities?",
+      "japanese": "何かボランティア活動に参加していますか？"
+    },
+    {
+      "english": "Could you pass me the salt, please?",
+      "japanese": "塩を取っていただけますか？"
+    },
+    {
+      "english": "I wonder why the store is closed today.",
+      "japanese": "なんで今日はお店が閉まっているんだろう。"
+    },
+    {
+      "english": "It's a pity that you can't join us.",
+      "japanese": "あなたが参加できないのは残念です。"
+    },
+    {
+      "english": "Make sure you have everything you need.",
+      "japanese": "必要なものがすべて揃っているか確認してください。"
+    },
+    {
+      "english": "Generally speaking, Japanese people are polite.",
+      "japanese": "一般的に言って、日本人は礼儀正しいです。"
+    },
+    {
+      "english": "I'm exhausted from working all day long.",
+      "japanese": "一日中働いてクタクタです。"
+    },
+    {
+      "english": "Can I leave a message for him?",
+      "japanese": "彼に伝言を残してもいいですか？"
+    },
+    {
+      "english": "This is exactly what I was looking for.",
+      "japanese": "これこそまさに私が探していたものです。"
+    },
+    {
+      "english": "Do you have any plans for the upcoming holidays?",
+      "japanese": "今度の連休は何か予定がありますか？"
+    },
+    {
+      "english": "I'd love to, but I have a previous engagement.",
+      "japanese": "ぜひそうしたいのですが、先約があります。"
+    },
+    {
+      "english": "The battery on my phone is about to die.",
+      "japanese": "携帯の電池が切れそうです。"
+    },
+    {
+      "english": "It's rude to speak with your mouth full.",
+      "japanese": "口に物を入れたまま話すのは失礼です。"
     }
   ],
   "advanced": [
     {
-      "english": "Our company has been implementing new strategies to improve customer satisfaction.",
-      "japanese": "当社は顧客満足度を向上させるために新しい戦略を実施しています。"
+      "english": "We need to prioritize efficiency over speed.",
+      "japanese": "私たちは速度よりも効率を優先する必要があります。"
     },
     {
-      "english": "Despite the economic challenges, the team managed to exceed their quarterly targets.",
-      "japanese": "経済的な課題にもかかわらず、チームは四半期目標を上回ることができました。"
+      "english": "I'd like to propose a different approach to this problem.",
+      "japanese": "この問題に対して別のアプローチを提案したいと思います。"
     },
     {
-      "english": "I would appreciate it if you could review the proposal by the end of this week.",
-      "japanese": "今週末までに提案書を確認していただけると幸いです。"
+      "english": "Could you elaborate on that point briefly?",
+      "japanese": "その点について少し詳しく説明していただけますか？"
+    },
+    {
+      "english": "The figures indicate a significant increase in revenue.",
+      "japanese": "その数値は収益の大幅な増加を示しています。"
+    },
+    {
+      "english": "I'm afraid I have to disagree with your assessment.",
+      "japanese": "恐れ入りますが、あなたの評価には同意しかねます。"
+    },
+    {
+      "english": "Let's wrap up this meeting by clarifying the next steps.",
+      "japanese": "次のステップを明確にして、この会議を締めくくりましょう。"
+    },
+    {
+      "english": "It is essential that we maintain transparency with our clients.",
+      "japanese": "クライアントとの透明性を維持することが不可欠です。"
+    },
+    {
+      "english": "Despite the delay, we managed to launch the product on time.",
+      "japanese": "遅れにもかかわらず、なんとか製品を予定通りに発売できました。"
+    },
+    {
+      "english": "Assuming everything goes according to plan, we'll finish by Friday.",
+      "japanese": "すべてが計画通りに進めば、金曜日までに完了するでしょう。"
+    },
+    {
+      "english": "I apologize for any inconvenience this may have caused.",
+      "japanese": "ご不便をおかけしたことをお詫び申し上げます。"
+    },
+    {
+      "english": "I would like to emphasize the importance of teamwork.",
+      "japanese": "チームワークの重要性を強調したいと思います。"
+    },
+    {
+      "english": "We need to identify the root cause of the problem.",
+      "japanese": "私たちはその問題の根本的な原因を特定する必要があります。"
+    },
+    {
+      "english": "The project was completed ahead of schedule.",
+      "japanese": "プロジェクトは予定より早く完了しました。"
+    },
+    {
+      "english": "Please review the attached documents at your earliest convenience.",
+      "japanese": "ご都合のつき次第、添付書類をご確認ください。"
+    },
+    {
+      "english": "I'm convinced that this is the best solution.",
+      "japanese": "これが最善の解決策であると確信しています。"
+    },
+    {
+      "english": "We anticipate a significant increase in sales next quarter.",
+      "japanese": "来四半期は売上の大幅な増加を見込んでいます。"
+    },
+    {
+      "english": "Could you provide us with a detailed estimate?",
+      "japanese": "詳細な見積もりを出していただけますか？"
+    },
+    {
+      "english": "It is crucial to maintain confidential information.",
+      "japanese": "機密情報を保持することは極めて重要です。"
+    },
+    {
+      "english": "I have no doubt about his ability to lead the team.",
+      "japanese": "彼がチームを率いる能力があることに疑いの余地はありません。"
+    },
+    {
+      "english": "Let's explore other alternatives before making a decision.",
+      "japanese": "決定を下す前に、他の代替案を検討しましょう。"
+    },
+    {
+      "english": "The results of the survey were somewhat unexpected.",
+      "japanese": "調査の結果は、いくぶん予想外のものでした。"
+    },
+    {
+      "english": "We are currently negotiating the terms of the contract.",
+      "japanese": "現在、契約条件を交渉中です。"
+    },
+    {
+      "english": "I appreciate your valuable feedback on this matter.",
+      "japanese": "この件に関する貴重なご意見に感謝いたします。"
+    },
+    {
+      "english": "This technology has the potential to revolutionize the industry.",
+      "japanese": "この技術は業界に革命をもたらす可能性があります。"
+    },
+    {
+      "english": "Ideally, we should aim for a win-win situation.",
+      "japanese": "理想的には、双方が利益を得る状況を目指すべきです。"
+    },
+    {
+      "english": "Please maximize the window to view the entire graph.",
+      "japanese": "グラフ全体を見るにはウィンドウを最大化してください。"
+    },
+    {
+      "english": "I apologize for not getting back to you sooner.",
+      "japanese": "もっと早くお返事できず申し訳ありません。"
+    },
+    {
+      "english": "We must comply with all relevant regulations.",
+      "japanese": "関連するすべての規制を遵守しなければなりません。"
+    },
+    {
+      "english": "Generally speaking, the economy is recovering slowly.",
+      "japanese": "概して言えば、経済は緩やかに回復しています。"
+    },
+    {
+      "english": "I'd like to draw your attention to the following points.",
+      "japanese": "以下の点にご注目いただきたいと思います。"
+    },
+    {
+      "english": "He is highly regarded as an expert in this field.",
+      "japanese": "彼はこの分野の専門家として高く評価されています。"
+    },
+    {
+      "english": "Unfortunately, we have to decline your offer.",
+      "japanese": "残念ながら、あなたの申し出をお断りしなければなりません。"
+    },
+    {
+      "english": "The meeting has been rescheduled for next Monday.",
+      "japanese": "会議は来週の月曜日に変更されました。"
+    },
+    {
+      "english": "Effective communication is the key to success.",
+      "japanese": "効果的なコミュニケーションが成功の鍵です。"
+    },
+    {
+      "english": "We are committed to providing high-quality service.",
+      "japanese": "私たちは高品質なサービスを提供することに尽力しています。"
+    },
+    {
+      "english": "Is there any room for negotiation on the price?",
+      "japanese": "価格について交渉の余地はありますか？"
+    },
+    {
+      "english": "I'll take full responsibility for the error.",
+      "japanese": "そのミスについては私が全責任を負います。"
+    },
+    {
+      "english": "Let me briefly summarize the main points of the discussion.",
+      "japanese": "議論の要点を簡単に要約させてください。"
+    },
+    {
+      "english": "It seems that the system is currently unavailable.",
+      "japanese": "現在、システムは利用できないようです。"
+    },
+    {
+      "english": "We need to allocate more resources to this project.",
+      "japanese": "このプロジェクトにもっとリソースを割り当てる必要があります。"
+    },
+    {
+      "english": "Conceptually, the idea is sound, but implementation is difficult.",
+      "japanese": "概念的にはその考えは正しいですが、実行するのは困難です。"
+    },
+    {
+      "english": "I would like to express my sincere gratitude for your support.",
+      "japanese": "あなたのご支援に心から感謝の意を表したいと思います。"
+    },
+    {
+      "english": "The outcome depends largely on how we execute the plan.",
+      "japanese": "結果は、私たちが計画をどう実行するかに大きく依存します。"
+    },
+    {
+      "english": "We should take into account the cultural differences.",
+      "japanese": "文化的な違いを考慮に入れるべきです。"
+    },
+    {
+      "english": "If I had known about the risks, I wouldn't have agreed.",
+      "japanese": "もしリスクについて知っていたら、同意しなかったでしょう。"
+    },
+    {
+      "english": "This software is compatible with both Mac and Windows.",
+      "japanese": "このソフトウェアはMacとWindowsの両方に対応しています。"
+    },
+    {
+      "english": "Please refrain from smoking in this area.",
+      "japanese": "このエリアでの喫煙はご遠慮ください。"
+    },
+    {
+      "english": "The CEO announced his resignation yesterday.",
+      "japanese": "CEOは昨日、辞任を発表しました。"
+    },
+    {
+      "english": "We are looking for a candidate with extensive experience.",
+      "japanese": "私たちは豊富な経験を持つ候補者を探しています。"
+    },
+    {
+      "english": "Subsequent investigations revealed the truth.",
+      "japanese": "その後の調査で真実が明らかになりました。"
+    },
+    {
+      "english": "It is essential to establish a strong relationship of trust.",
+      "japanese": "強固な信頼関係を築くことが不可欠です。"
+    },
+    {
+      "english": "I'm slightly confused about the new policy.",
+      "japanese": "新しい方針について、少し混乱しています。"
+    },
+    {
+      "english": "Could you clarify what you mean by that statement?",
+      "japanese": "その発言がどういう意味か明確にしていただけますか？"
+    },
+    {
+      "english": "We aim to reduce carbon emissions by 20 percent.",
+      "japanese": "私たちは二酸化炭素排出量を20％削減することを目指しています。"
+    },
+    {
+      "english": "Statistics show that the population is aging rapidly.",
+      "japanese": "統計によれば、人口の高齢化が急速に進んでいます。"
+    },
+    {
+      "english": "In conclusion, I strongly support this proposal.",
+      "japanese": "結論として、私はこの提案を強く支持します。"
+    },
+    {
+      "english": "He was accused of violating the company's code of conduct.",
+      "japanese": "彼は会社の行動規範に違反したとして非難されました。"
+    },
+    {
+      "english": "Let's focus on the positive aspects of the situation.",
+      "japanese": "状況の肯定的な側面に焦点を当てましょう。"
+    },
+    {
+      "english": "I assure you that we are doing everything we can.",
+      "japanese": "私たちができる限りのことをしていると保証します。"
+    },
+    {
+      "english": "This issue requires immediate attention from the management.",
+      "japanese": "この問題は経営陣による早急な対応が必要です。"
+    },
+    {
+      "english": "We need to adopt a more flexible approach.",
+      "japanese": "私たちはもっと柔軟なアプローチを採用する必要があります。"
+    },
+    {
+      "english": "The instructions were explicitly written in the manual.",
+      "japanese": "指示はマニュアルに明示的に書かれていました。"
+    },
+    {
+      "english": "Regardless of the weather, the event will be held.",
+      "japanese": "天候にかかわらず、イベントは開催されます。"
+    },
+    {
+      "english": "I'm having trouble accessing the server remotely.",
+      "japanese": "サーバーへのリモートアクセスに問題が発生しています。"
+    },
+    {
+      "english": "It's highly unlikely that the price will drop soon.",
+      "japanese": "価格がすぐに下がるとは考えにくいです。"
+    },
+    {
+      "english": "We should prioritize tasks based on urgency and importance.",
+      "japanese": "緊急度と重要度に基づいてタスクに優先順位をつけるべきです。"
+    },
+    {
+      "english": "The demand for renewable energy is growing steadily.",
+      "japanese": "再生可能エネルギーへの需要は着実に伸びています。"
+    },
+    {
+      "english": "Please let me know if any further clarification is needed.",
+      "japanese": "さらに説明が必要な場合はお知らせください。"
+    },
+    {
+      "english": "I was under the impression that the deadline was tomorrow.",
+      "japanese": "締め切りは明日だと思い込んでいました。"
+    },
+    {
+      "english": "Constructive criticism is always welcome to improve our work.",
+      "japanese": "仕事を改善するための建設的な批判はいつでも歓迎します。"
+    },
+    {
+      "english": "We managed to resolve the conflict peacefully.",
+      "japanese": "私たちはその対立を平和的に解決することができました。"
+    },
+    {
+      "english": "The marketing campaign had a significant impact on sales.",
+      "japanese": "マーケティングキャンペーンは売上に大きな影響を与えました。"
+    },
+    {
+      "english": "Simply put, we need to cut costs to survive.",
+      "japanese": "簡単に言えば、生き残るためにはコストを削減する必要があります。"
+    },
+    {
+      "english": "This represents a major milestone for our organization.",
+      "japanese": "これは私たちの組織にとって大きな節目を表しています。"
+    },
+    {
+      "english": "I'm inclined to agree with your perspective.",
+      "japanese": "私はあなたの見解に同意したい気持ちです。"
+    },
+    {
+      "english": "He demonstrated outstanding leadership skills during the crisis.",
+      "japanese": "彼は危機の最中に卓越したリーダーシップスキルを発揮しました。"
+    },
+    {
+      "english": "Please ensure that all devices are turned off.",
+      "japanese": "すべての機器の電源が切れていることを確認してください。"
+    },
+    {
+      "english": "I'd like to extend a warm welcome to our new members.",
+      "japanese": "新しいメンバーを温かく歓迎したいと思います。"
+    },
+    {
+      "english": "We are facing intense competition in the global market.",
+      "japanese": "私たちは世界市場で激しい競争に直面しています。"
+    },
+    {
+      "english": "Preliminary results suggest that the experiment was successful.",
+      "japanese": "予備的な結果は、実験が成功したことを示唆しています。"
+    },
+    {
+      "english": "It is widely acknowledged that smoking causes health problems.",
+      "japanese": "喫煙が健康問題を引き起こすことは広く認められています。"
+    },
+    {
+      "english": "I presume you have already received the agenda.",
+      "japanese": "あなたがすでに議題を受け取っていると推定します。"
+    },
+    {
+      "english": "We need to assess the potential risks before proceeding.",
+      "japanese": "進める前に潜在的なリスクを評価する必要があります。"
+    },
+    {
+      "english": "This allows us to streamline our workflow efficiently.",
+      "japanese": "これにより、ワークフローを効率的に合理化することができます。"
+    },
+    {
+      "english": "I'm skeptical about the accuracy of this data.",
+      "japanese": "このデータの正確性については懐疑的です。"
+    },
+    {
+      "english": "Let's postpone the discussion until everyone is present.",
+      "japanese": "全員が揃うまで議論を延期しましょう。"
+    },
+    {
+      "english": "It is imperative that we meet the deadline.",
+      "japanese": "締め切りを守ることが絶対不可欠です。"
+    },
+    {
+      "english": "We strive to exceed customer expectations every day.",
+      "japanese": "私たちは日々、顧客の期待を超えるよう努力しています。"
+    },
+    {
+      "english": "The proposed changes will be implemented next month.",
+      "japanese": "提案された変更は来月実施されます。"
+    },
+    {
+      "english": "There is a discrepancy between the two reports.",
+      "japanese": "2つの報告書の間に不一致があります。"
+    },
+    {
+      "english": "We need to diversify our investment portfolio.",
+      "japanese": "私たちは投資ポートフォリオを多様化する必要があります。"
+    },
+    {
+      "english": "I'm honored to be given this opportunity.",
+      "japanese": "この機会をいただき光栄に思います。"
+    },
+    {
+      "english": "Could you elaborate on the technical specifications?",
+      "japanese": "技術的な仕様について詳しく説明していただけますか？"
+    },
+    {
+      "english": "Despite the challenges, we remain optimistic about the future.",
+      "japanese": "課題はあるものの、私たちは将来について楽観的なままです。"
+    },
+    {
+      "english": "We need to obtain approval from the board of directors.",
+      "japanese": "取締役会の承認を得る必要があります。"
+    },
+    {
+      "english": "This strategy is designed to maximize profitability.",
+      "japanese": "この戦略は収益性を最大化するように設計されています。"
+    },
+    {
+      "english": "Please accept my apologies for the inconvenience caused.",
+      "japanese": "ご不便をおかけしたことをお詫び申し上げます。"
+    },
+    {
+      "english": "I'm confident that we can overcome these obstacles.",
+      "japanese": "私たちはこれらの障害を乗り越えられると確信しています。"
+    },
+    {
+      "english": "The feedback from the users was overwhelmingly positive.",
+      "japanese": "ユーザーからのフィードバックは圧倒的に肯定的でした。"
+    },
+    {
+      "english": "We must adapt to the rapidly changing environment.",
+      "japanese": "私たちは急速に変化する環境に適応しなければなりません。"
     }
   ]
 }
