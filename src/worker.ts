@@ -66,6 +66,11 @@ self.addEventListener('message', async (event) => {
         stride_length_s: 5,
       })) as TranscriptionOutput;
 
+      // 音声がない場合の処理
+      if (output.text === ' [BLANK_AUDIO]') {
+        output.text = '音声なし';
+      }
+
       // 結果を送信
       self.postMessage({ status: 'complete', result: output });
     } else {

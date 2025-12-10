@@ -104,8 +104,8 @@ export function ControlPanel({
             disabled={!hasQuestion || isProcessing || !isModelReady}
             className={`relative w-20 h-20 flex items-center justify-center rounded-full text-white shadow-xl transition-all z-10 mb-1 ${
               isRecording
-                ? 'bg-red-500 shadow-red-200 recording-pulse'
-                : 'bg-blue-500 shadow-blue-200 hover:shadow-blue-300 hover:bg-blue-600 active:scale-95'
+                ? 'bg-red-500 recording-pulse'
+                : 'bg-blue-500 hover:bg-blue-600 active:scale-95'
             } disabled:opacity-50 disabled:cursor-not-allowed`}
           >
             <span className="material-icons-round text-4xl">
