@@ -27,7 +27,18 @@ export function useAudioRecording() {
     try {
       // マイクへのアクセスを要求
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-      const mediaRecorder = new MediaRecorder(stream);
+
+      // ブラウザがサポートしているmimeTypeを検出（iOS Safari対応）
+      let mimeType = 'audio/webm';
+      if (MediaRecorder.isTypeSupported('audio/webm')) {
+        mimeType = 'audio/webm';
+      } else if (MediaRecorder.isTypeSupported('audio/mp4')) {
+        mimeType = 'audio/mp4';
+      } else if (MediaRecorder.isTypeSupported('audio/wav')) {
+        mimeType = 'audio/wav';
+      }
+
+      const mediaRecorder = new MediaRecorder(stream, { mimeType });
       mediaRecorderRef.current = mediaRecorder;
       audioChunksRef.current = [];
 
@@ -39,7 +50,7 @@ export function useAudioRecording() {
       // 録音が停止したら、音声データを処理
       mediaRecorder.onstop = async () => {
         // 録音したデータをBlobにまとめる
-        const audioBlob = new Blob(audioChunksRef.current, { type: 'audio/webm' });
+        const audioBlob = new Blob(audioChunksRef.current, { type: mimeType });
         // 再生用のURLを作成
         const audioUrl = URL.createObjectURL(audioBlob);
         setUserAudioUrl(audioUrl);

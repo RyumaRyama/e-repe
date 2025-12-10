@@ -46,7 +46,16 @@ export function ControlPanel({
       setIsPlayingUserVoice(false);
     };
 
-    audio.play();
+    audio.onerror = () => {
+      console.error('Audio playback error');
+      setIsPlayingUserVoice(false);
+    };
+
+    // スマホ対応: play()のPromiseをハンドリング
+    audio.play().catch((error) => {
+      console.error('Failed to play audio:', error);
+      setIsPlayingUserVoice(false);
+    });
   };
 
   return (
